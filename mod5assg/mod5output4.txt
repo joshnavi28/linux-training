@@ -1,0 +1,4 @@
+Script name: ./file_analyzer.sh
+Total arguments passed: 4
+All arguments: -f script.sh -k TODO
+File does not exist: script.sh

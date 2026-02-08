@@ -1,0 +1,4 @@
+Script name: ./file_analyzer.sh
+Total arguments passed: 4
+All arguments: -d logs -k errors
+Directory does not exist: logs

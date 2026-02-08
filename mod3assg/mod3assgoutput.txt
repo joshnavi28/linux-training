@@ -1,0 +1,10 @@
+Files to be backed up:
+config.txt - 150 bytes
+filtered_log.txt - 125 bytes
+log.txt - 612 bytes
+mod3assgoutput.txt - 95 bytes
+module2_assg.txt - 53248 bytes
+output1.txt - 867 bytes
+output5.txt - 77 bytes
+updated_config.txt - 150 bytes
+Backup completed
